@@ -1,0 +1,62 @@
+body {
+    background-color: lightblue;
+}
+
+.leo{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+    border-radius: 200px;
+}
+
+.name{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+    text-align: center;
+    
+}
+.info{
+ text-align: center;
+    font-size: 22px;
+    line-height: 1px; 
+    margin-bottom: 1px;
+}
+.dot{
+ font-size:60px; 
+ text-align: center;
+ margin-top: 70px; 
+ list-style-position: inside;
+ font-family: 'Shippori Mincho B1', serif;
+}
+.man{
+ width: 350px; 
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+
+}
+.explination{
+ margin-bottom: 70px;
+ margin-top: 10px;
+ font-size: 23px;
+ text-align: center;
+ font-family: 'Shippori Mincho B1', serif;
+}
+.purple{
+background-color: #b147bf;
+}.blue{
+background-color: #4c70e6;
+}.yellow{
+background-color: #f7f12d;
+}
+
+.floyd{
+ width:350px; 
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 90px;
+    border: dashed;
+}
